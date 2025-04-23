@@ -7,6 +7,3 @@ With my group, we chose to create an application using NASA API.
 Project management in agile methods.
 
 Techno :  REACT, CSS, FIGMA (design by me)
-
-### Visit Website
-https://nasa-concept-application.netlify.app
